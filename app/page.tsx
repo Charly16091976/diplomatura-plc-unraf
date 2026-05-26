@@ -1,3 +1,4 @@
+import GoogleForm from '../components/GoogleForm'
 import Hero from '../components/Hero'
 import About from '../components/About'
 import Modules from '../components/Modules'
