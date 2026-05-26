@@ -16,12 +16,11 @@ export default function CTA() {
 
         <div className="flex flex-wrap justify-center gap-6">
           <a
-            href="https://wa.me/5493492000000"
-            target="_blank"
-            className="bg-yellow-400 text-black px-10 py-5 rounded-2xl font-bold text-lg hover:scale-105 transition"
-          >
-            Consultar por WhatsApp
-          </a>
+  href="mailto:luciano.mulki@unraf.edu.ar?subject=Consulta%20Diplomatura%20PLC"
+  className="bg-yellow-400 text-black px-10 py-5 rounded-2xl font-bold text-lg hover:scale-105 transition"
+>
+  Consultar por Mail
+</a>
 
           <a
             href="/programa.pdf"
