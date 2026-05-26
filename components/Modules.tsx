@@ -5,7 +5,7 @@ const modules = [
   'GRAFCET',
   'HMI',
   'Comunicaciones Industriales con PLC',
-  'Scada',
+  'SCADA',
   'Trabajo Final Integrador',
 ]
 
