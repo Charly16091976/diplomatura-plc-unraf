@@ -23,7 +23,8 @@ export default function Hero() {
           alt="UNRaf"
           width={220}
           height={80}
-          className="mx-auto mb-8"
+          className="object-contain brightness-110"
+          
         />
 
         <h1 className="text-5xl md:text-7xl font-black text-white mb-6">
