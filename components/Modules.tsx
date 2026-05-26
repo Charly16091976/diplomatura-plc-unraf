@@ -1,11 +1,11 @@
 const modules = [
-  'Álgebra de Boole',
-  'Plano de Funciones',
-  'Lenguaje Ladder',
+  'Conceptos generales y Álgebra de Boole',
+  'Lenguaje en Plano de Funciones',
+  'Lenguaje en Esquema de Contactos',
   'GRAFCET',
   'HMI',
-  'SCADA',
-  'Comunicaciones Industriales',
+  'Comunicaciones Industriales con PLC',
+  'Scada',
   'Trabajo Final Integrador',
 ]
 
