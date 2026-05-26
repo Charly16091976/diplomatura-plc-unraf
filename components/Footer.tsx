@@ -7,7 +7,7 @@ export default function Footer() {
 
         <div>
           <Image
-            src="/logo-unraf.jpg"
+            src="/logo-unraf.png"
             alt="UNRaf"
             width={220}
             height={80}
