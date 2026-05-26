@@ -11,7 +11,7 @@ export default function Footer() {
             alt="UNRaf"
             width={220}
             height={80}
-            className="object-contain brightness-110"
+            className="object-contain brightness-120"
           />
         </div>
 
