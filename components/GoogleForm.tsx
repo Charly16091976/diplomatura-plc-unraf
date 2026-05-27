@@ -17,7 +17,7 @@ export default function GoogleForm() {
           <iframe
             src="https://docs.google.com/forms/d/e/1FAIpQLScGMTHV-gdP3ExlAynuj-rDSIX-GWhlFfQYbQmxrds98LBsZw/viewform?embedded=true"
             width="100%"
-            height="900"
+            height="1000"
             frameBorder="0"
             marginHeight={0}
             marginWidth={0}
