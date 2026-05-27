@@ -36,7 +36,7 @@ export default function Hero() {
 
           </div>
 
-          <h1 className="text-6xl lg:text-7xl font-black leading-tight mb-8">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-tight mb-8">
 
             Diplomatura en
 
@@ -46,7 +46,7 @@ export default function Hero() {
 
           </h1>
 
-          <p className="text-2xl text-gray-300 leading-relaxed mb-10 max-w-2xl">
+          <p className="text-lg md:text-2xl text-gray-300 leading-relaxed mb-10 max-w-2xl">
             Formación intensiva orientada a automatización industrial,
             PLC, SCADA e Industria 4.0 con enfoque práctico y tecnológico.
           </p>
